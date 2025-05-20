@@ -16,7 +16,6 @@ function App() {
   return (
     <div style={{ padding: 20 }}>
       <h1>Hello World from React!</h1>
-      <p>Response: {response}</p>
     </div>
   );
 }
